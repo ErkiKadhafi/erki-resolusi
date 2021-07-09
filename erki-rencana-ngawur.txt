@@ -2,3 +2,4 @@ RENCANA NGAWUR SAYA
 - Node Js
 - React
 - MongoDb
+- Yho ndak tawu kok tanya saya
