@@ -1,6 +1,7 @@
 RENCANA NGAWUR SAYA
 - Node Js
 - React
-  * hadu mata pancing yes
-  * ngatawu ngg ko tanya saya
+  * Yho tanya bapak jangan tanya saya
+- MongoDb
+  * Kenapa kamu tanya begitu, siapa yang suruh?
 - Yho ndak tawu kok tanya saya
